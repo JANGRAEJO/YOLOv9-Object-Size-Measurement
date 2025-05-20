@@ -36,3 +36,10 @@ python -m venv yolov_env
 
 # Install Python dependencies
 pip install -r requirements.txt
+
+
+💡 Note: This project intentionally excludes the YOLOv9 and MiDaS weights due to file size and licensing concerns. You can download them manually from:
+
+yolov9-e.pt
+
+dpt_hybrid_384
