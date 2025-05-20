@@ -6,6 +6,12 @@ This project enables **real-time object detection** and **physical size estimati
 
 ---
 
+## 📹 Demo Preview
+
+![Demo](assets/YOLOv9MiDaSRealTimeObjectSizeMeasurement.gif)
+
+---
+
 ## 📦 Features
 
 - ✅ YOLOv9 object detection (runs on **GPU or CPU**)
